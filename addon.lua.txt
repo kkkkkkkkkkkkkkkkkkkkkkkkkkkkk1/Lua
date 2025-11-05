@@ -15527,14 +15527,14 @@ local grandh = createScriptButton("grand", function(btn)
 end)
 
 local grand_pivoth = createScriptButton("grand_pivot", function(btn)
-	btn.Text = "Loading... Please Wait"
+	btn.Text = "ثواني قاعد يتحمل السكربت"
 	wait(0.5)
 	btn.Text = "grand_pivot"
 	loadstring(game:HttpGet("https://pastefy.app/NkKIJePz/raw", true))()
 end)
 
 local mjolnirh = createScriptButton("mjolnir", function(btn)
-	btn.Text = "Loading... Please Wait"
+	btn.Text = "ثواني قاعد يتحمل السكربت"
 	wait(0.5)
 	btn.Text = "mjolnir"
 local player = game.Players.LocalPlayer
@@ -15918,11 +15918,11 @@ UICorner.Parent = ButtonTemplate
 UICorner.CornerRadius = UDim.new(0, 8)
 end)
 
-local mystich = createScriptButton("mystic", function(btn)
+local mystich = createScriptButton("اوباما 😭", function(btn)
 	btn.Text = "Loading... Please Wait"
 	wait(0.5)
-	btn.Text = "mystic"
-	loadstring(game:HttpGet("https://pastefy.app/7R72UhO9/raw", true))()
+	btn.Text = "اوباما 😭"
+	loadstring(game:HttpGet("https://pastebin.com/raw/tEKHnGTu", true))()
 end)
 
 local r6h = createScriptButton("r6", function(btn)
